@@ -28,7 +28,7 @@
 <body>
 	<header>
 		<h1>jQuery  Events</h1>
-	</header>
+	</header> 
 	<div id="container">
 		<h3>Mouse Events</h3>
 		<button id="btn1" class="btnClass">Button 1</button>
